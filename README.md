@@ -1,7 +1,7 @@
 # Piotroski-F-Score
 Piotroski F-Score Strategy
 
-![Piotroski Score Project Workflow](path/to/your/image.png)
+![Piotroski Score Project Workflow](https://github.com/akshayparate123/Piotroski-F-Score/blob/main/Images/dashboard_1.png)
 
 
 This project automates the calculation of the Piotroski F-Score, a financial analysis tool that helps assess a company's financial strength based on its profitability, liquidity, and operating efficiency. The project involves data mining, cleaning, score calculation, and dashboard generation using various tools and data sources.
